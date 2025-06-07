@@ -1,4 +1,4 @@
-module github.com/sonr-io/ui
+module github.com/go-sonr/ui
 
 go 1.24.2
 
